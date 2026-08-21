@@ -1,0 +1,3862 @@
+{
+"56924969525": [
+{
+"name": "The Branson School - Gap Medical",
+"id": "62852791835",
+"amount": null,
+"closeDate": "2026-08-31",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"56883679620": [
+{
+"name": "Blaze Baseball",
+"id": "62939521365",
+"amount": null,
+"closeDate": "2026-07-22",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"56567586582": [
+{
+"name": "Diocese of Harrisburg",
+"id": "63513994316",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "89182773",
+"owner": "Joshua Ortiz"
+}
+],
+"55663485448": [
+{
+"name": "Delightful Acres- event host liability/ cancellation",
+"id": "61244357017",
+"amount": null,
+"closeDate": "2026-06-22",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Twisted Oaks Events- event host liability",
+"id": "61176345220",
+"amount": null,
+"closeDate": "2026-06-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"55406232856": [
+{
+"name": "American Dental Hygienists' Association- registration protection",
+"id": "63053432367",
+"amount": null,
+"closeDate": "2026-08-21",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"55214153858": [
+{
+"name": "MotoAmerica-registration protection",
+"id": "60486859559",
+"amount": null,
+"closeDate": "2026-08-31",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"54754585638": [
+{
+"name": "Stonewall Farms- event liability",
+"id": "60056560712",
+"amount": null,
+"closeDate": "2026-05-12",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "48 Fields Farm- event host liability",
+"id": "62045130021",
+"amount": null,
+"closeDate": "2026-08-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"53954628778": [
+{
+"name": "Northfield Gymnastics Club",
+"id": "59153677110",
+"amount": null,
+"closeDate": "2026-08-14",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "ScoreFlippers",
+"id": "59153651973",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 3: Investigate",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"53101222820": [
+{
+"name": "Masterminds Academy",
+"id": "57941032082",
+"amount": null,
+"closeDate": "2026-03-23",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Masterminds Academy",
+"id": "62115385890",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+}
+],
+"53080984678": [
+{
+"name": "North American Association of Synagogue Executives- registration protection",
+"id": "58135732642",
+"amount": null,
+"closeDate": "2026-03-18",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"52563280148": [
+{
+"name": "Clarity",
+"id": "57553407404",
+"amount": 5100000.0,
+"closeDate": "2026-09-30",
+"stage": "Stage 4: Validate",
+"bucket": "open",
+"ownerId": "84032037",
+"owner": "Jeff Margolis"
+},
+{
+"name": "Greene Towne Montessori School",
+"id": "63514008222",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "94714570",
+"owner": "Ethan Wilson"
+}
+],
+"52251237721": [
+{
+"name": "JCreig Capital Funding",
+"id": "58987031421",
+"amount": null,
+"closeDate": "2026-04-09",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "American Commercial Lending",
+"id": "58986287697",
+"amount": null,
+"closeDate": "2026-04-29",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "C Biz Capital",
+"id": "58906042427",
+"amount": null,
+"closeDate": "2026-04-29",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"52234421786": [
+{
+"name": "Sound Capital Loans - ID",
+"id": "57452189956",
+"amount": 1155.0,
+"closeDate": "2026-03-05",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Sound Capital Loans - Hidden Bridge Development",
+"id": "63925219881",
+"amount": 12500.0,
+"closeDate": "2026-09-01",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "91882025",
+"owner": "Peter Rasmussen"
+},
+{
+"name": "Sound Capital Loans - Hathaway Development",
+"id": "61355728040",
+"amount": 1512.0,
+"closeDate": "2026-06-23",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "91882025",
+"owner": "Peter Rasmussen"
+},
+{
+"name": "Sound Capital Loans",
+"id": "64133476251",
+"amount": 320.0,
+"closeDate": "2026-08-18",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "90739916",
+"owner": "Unknown Owner"
+},
+{
+"name": "Belaway Developments LLC",
+"id": "61750882684",
+"amount": 4720.0,
+"closeDate": "2026-06-30",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "91882025",
+"owner": "Peter Rasmussen"
+},
+{
+"name": "Sound Capital Loans - 265 W Chubbuck Rd",
+"id": "63027298675",
+"amount": 4939.0,
+"closeDate": "2026-07-27",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "91882025",
+"owner": "Peter Rasmussen"
+}
+],
+"51240478378": [
+{
+"name": "Hivey - Exhibitor Liability",
+"id": "60182291489",
+"amount": 153500.0,
+"closeDate": "2026-06-23",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "90394475",
+"owner": "Nick Thielman"
+},
+{
+"name": "Colorado Markets- ticket refund landing page",
+"id": "56545045593",
+"amount": null,
+"closeDate": "2026-02-17",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"50928017810": [
+{
+"name": "MyHomebuilder",
+"id": "59175616891",
+"amount": 1000000.0,
+"closeDate": "2026-06-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "91882025",
+"owner": "Peter Rasmussen"
+},
+{
+"name": "Three Peak Construction",
+"id": "55927470593",
+"amount": 1539.0,
+"closeDate": "2026-08-21",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"51762469262": [
+{
+"name": "Thrive Companies",
+"id": "57506325635",
+"amount": null,
+"closeDate": "2026-08-28",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"51763026813": [
+{
+"name": "Sunflower Hill Wedding and Event Venue landing page- event liability",
+"id": "55433805372",
+"amount": null,
+"closeDate": "2026-02-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Krimson Park- event liability",
+"id": "58986963568",
+"amount": null,
+"closeDate": "2026-04-21",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Lakeside Venue at Pioneer- event cancellation",
+"id": "58368937600",
+"amount": null,
+"closeDate": "2026-04-21",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Barn at Woodridge- event liability",
+"id": "59086935916",
+"amount": null,
+"closeDate": "2026-04-21",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Barn at Smith Lake- event liability",
+"id": "59418338313",
+"amount": null,
+"closeDate": "2026-04-23",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Sage View Ranch- event liability",
+"id": "59814673233",
+"amount": null,
+"closeDate": "2026-05-12",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Villa of South Conyers- event liability",
+"id": "58760675948",
+"amount": null,
+"closeDate": "2026-05-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Almquist Farm- event host liability",
+"id": "61465639803",
+"amount": null,
+"closeDate": "2026-07-27",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"48610046023": [
+{
+"name": "Teton Heritage",
+"id": "55927592974",
+"amount": null,
+"closeDate": "2026-04-16",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"48487608740": [
+{
+"name": "Stonewall Farms- event liability",
+"id": "60056560712",
+"amount": null,
+"closeDate": "2026-05-12",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "48 Fields Farm- event host liability",
+"id": "62045130021",
+"amount": null,
+"closeDate": "2026-08-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Burlap and Bells- event host liability",
+"id": "61750265755",
+"amount": null,
+"closeDate": "2026-08-05",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"48105319194": [
+{
+"name": "The Gilded Aisle-Aisle planner",
+"id": "53751938223",
+"amount": null,
+"closeDate": "2026-01-14",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"47338487609": [
+{
+"name": "Northern Dreams Gymnastics",
+"id": "60036787466",
+"amount": null,
+"closeDate": "2026-08-25",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"45235970573": [
+{
+"name": "Apogee School for the Gifted",
+"id": "58369055547",
+"amount": null,
+"closeDate": "2026-03-27",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Apogee School for the Gifted",
+"id": "62485425529",
+"amount": null,
+"closeDate": "2026-10-08",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "89182773",
+"owner": "Joshua Ortiz"
+}
+],
+"57388548011": [
+{
+"name": "Houzz",
+"id": "49531034422",
+"amount": 1000000.0,
+"closeDate": "2026-08-20",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1299628362",
+"owner": "Michael Vandevoort"
+},
+{
+"name": "Bennett Custom Homes",
+"id": "57619339312",
+"amount": null,
+"closeDate": "2026-08-21",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Whitmore Custom Homes",
+"id": "59275161686",
+"amount": null,
+"closeDate": "2026-09-03",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"44341274486": [
+{
+"name": "ECI Software Solutions",
+"id": "48859287320",
+"amount": 4000000.0,
+"closeDate": "2026-05-18",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "91882025",
+"owner": "Peter Rasmussen"
+},
+{
+"name": "Stonewood LLC - 1555 Orchard Beach",
+"id": "55827508879",
+"amount": 8558.0,
+"closeDate": "2026-07-16",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"29211008569": [
+{
+"name": "Youth Directions and Alternatives",
+"id": "57141065484",
+"amount": null,
+"closeDate": "2026-03-02",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+}
+],
+"27595248481": [
+{
+"name": "On the Rocks",
+"id": "58686266115",
+"amount": null,
+"closeDate": "2026-05-22",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"57061173034": [
+{
+"name": "Swapcard-Events",
+"id": "51514763062",
+"amount": null,
+"closeDate": "2026-06-30",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "Unassigned",
+"owner": "Unassigned"
+},
+{
+"name": "ASAE- registration protection/ exhibitor liability",
+"id": "60844064361",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"23898488636": [
+{
+"name": "Memphis Brooks Museum of Art- event liability",
+"id": "57452226347",
+"amount": null,
+"closeDate": "2026-04-30",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "MKE Event Hall- event cancellation/ liability",
+"id": "59185275500",
+"amount": null,
+"closeDate": "2026-06-04",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Barn at Stoney Hills- event host liability/ event host cancellation",
+"id": "61055144272",
+"amount": null,
+"closeDate": "2026-06-16",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Loft At 132- event host liability",
+"id": "61390463492",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "25 Lusk- event liability/ cancellation",
+"id": "63434072350",
+"amount": null,
+"closeDate": "2026-08-21",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Atlanta Botanical Garden- event host liability",
+"id": "63837053468",
+"amount": null,
+"closeDate": "2026-08-28",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "San Francisco Design Center- event liability",
+"id": "58634167168",
+"amount": null,
+"closeDate": "2026-08-28",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"23370688679": [
+{
+"name": "JobTread",
+"id": "52087580993",
+"amount": null,
+"closeDate": "2026-05-18",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1299628362",
+"owner": "Michael Vandevoort"
+},
+{
+"name": "Dukes Properties & Construction",
+"id": "59021300249",
+"amount": null,
+"closeDate": "2026-06-25",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"57382280477": [
+{
+"name": "National Association of Broadcasters- registration protection",
+"id": "61050682509",
+"amount": null,
+"closeDate": "2026-07-30",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Ontario Dental Association- registration protection",
+"id": "59609810236",
+"amount": null,
+"closeDate": "2026-07-30",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Association for the Advancement of Blood & Biotherapies-registration protection",
+"id": "63027871829",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"33355804022": [
+{
+"name": "Staybook",
+"id": "37116315658",
+"amount": 1536000.0,
+"closeDate": "2025-06-22",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "78343899",
+"owner": "Jennifer Peacock"
+},
+{
+"name": "Playbook365 - Registration Protection",
+"id": "20218068496",
+"amount": 278400.0,
+"closeDate": "2025-03-31",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "348472337",
+"owner": "Jon MacRae"
+},
+{
+"name": "Playbook365",
+"id": "37113639815",
+"amount": 527500.0,
+"closeDate": "2025-06-22",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "78343899",
+"owner": "Jennifer Peacock"
+},
+{
+"name": "Pellucid Travel",
+"id": "36421064053",
+"amount": null,
+"closeDate": "2025-08-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "Unassigned",
+"owner": "Unassigned"
+}
+],
+"57375194650": [
+{
+"name": "Folk Song Farm Events, LLC- event liability/ insurance",
+"id": "60873473429",
+"amount": null,
+"closeDate": "2026-07-10",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"18251645072": [
+{
+"name": "Peerspace - Event Host Liability",
+"id": "18108666018",
+"amount": null,
+"closeDate": "2024-12-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "The Journey",
+"id": "54105460337",
+"amount": null,
+"closeDate": "2026-01-27",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"49869046394": [
+{
+"name": "Sycamore Education",
+"id": "54317038170",
+"amount": 1020800.0,
+"closeDate": "2026-02-19",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84032037",
+"owner": "Jeff Margolis"
+},
+{
+"name": "Sycamore Leaf Solutions - Tuition",
+"id": "16040714102",
+"amount": 216000.0,
+"closeDate": "2024-10-27",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "348472337",
+"owner": "Jon MacRae"
+},
+{
+"name": "All Saints School (Cues)",
+"id": "62115684515",
+"amount": 4200.0,
+"closeDate": "2026-07-10",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Holy Name School (CUES)",
+"id": "62115759143",
+"amount": 4200.0,
+"closeDate": "2026-07-10",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Sacred Heart School Omaha",
+"id": "61916819784",
+"amount": 4200.0,
+"closeDate": "2026-07-10",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Berean Academy",
+"id": "63436221595",
+"amount": 5216.0,
+"closeDate": "2026-08-14",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Immaculate Heart of Mary Parish",
+"id": "61352423006",
+"amount": null,
+"closeDate": "2026-06-19",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Child of God Lutheran School",
+"id": "62852767357",
+"amount": null,
+"closeDate": "2026-07-20",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Westwood Baptist Church",
+"id": "60644362819",
+"amount": null,
+"closeDate": "2026-07-29",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Blue Ridge Christian School",
+"id": "63053425474",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "89182773",
+"owner": "Joshua Ortiz"
+},
+{
+"name": "Newton Bible Christian School",
+"id": "63125288795",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Encompass Academy",
+"id": "62939375955",
+"amount": null,
+"closeDate": "2026-10-19",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Great River Christian School",
+"id": "63027519528",
+"amount": null,
+"closeDate": "2026-10-20",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "89182773",
+"owner": "Joshua Ortiz"
+},
+{
+"name": "Lutheran School Association",
+"id": "63222132648",
+"amount": null,
+"closeDate": "2026-10-26",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Unity Christian School",
+"id": "63290877794",
+"amount": null,
+"closeDate": "2026-10-28",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "89182773",
+"owner": "Joshua Ortiz"
+},
+{
+"name": "Otsego Christian Academy",
+"id": "63436370488",
+"amount": null,
+"closeDate": "2026-11-02",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Grace Christian Academy",
+"id": "63434212878",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "94714570",
+"owner": "Ethan Wilson"
+},
+{
+"name": "Sunshine Bible Academy",
+"id": "63434212679",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "89182773",
+"owner": "Joshua Ortiz"
+},
+{
+"name": "Hoosac School",
+"id": "63680224561",
+"amount": null,
+"closeDate": "2026-11-08",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+}
+],
+"17839303552": [
+{
+"name": "Veracross - Accident & Injury (Sports)",
+"id": "41438008202",
+"amount": 607200.0,
+"closeDate": "2026-03-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "Veracross - Tuition Protection (K12)",
+"id": "36218711848",
+"amount": 745200.0,
+"closeDate": "2025-09-17",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1970452898",
+"owner": "Unknown Owner"
+},
+{
+"name": "Columbus School For Girls",
+"id": "63514011170",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "94714570",
+"owner": "Ethan Wilson"
+},
+{
+"name": "Veracross",
+"id": "61113552041",
+"amount": null,
+"closeDate": "2026-12-31",
+"stage": "Stage 2: Explore",
+"bucket": "open",
+"ownerId": "84032037",
+"owner": "Jeff Margolis"
+}
+],
+"57380046373": [
+{
+"name": "The Kehillah School",
+"id": "58256076423",
+"amount": null,
+"closeDate": "2026-03-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "St John the Evangelist School",
+"id": "62939500821",
+"amount": null,
+"closeDate": "2026-07-29",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "The Kehillah School",
+"id": "62115399770",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Faith Christian School",
+"id": "62657887409",
+"amount": null,
+"closeDate": "2026-10-13",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Washington International School",
+"id": "62939073133",
+"amount": null,
+"closeDate": "2026-10-19",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Mayfield Junior School",
+"id": "63027612823",
+"amount": null,
+"closeDate": "2026-10-21",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Berean Christian School",
+"id": "63083872042",
+"amount": null,
+"closeDate": "2026-10-22",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "89182773",
+"owner": "Joshua Ortiz"
+},
+{
+"name": "St. Patrick Catholic School",
+"id": "63222422568",
+"amount": null,
+"closeDate": "2026-10-27",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Our Lady Of The Assumption School",
+"id": "63436667982",
+"amount": null,
+"closeDate": "2026-11-04",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Christ's Church Academy",
+"id": "63436801659",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "94714570",
+"owner": "Ethan Wilson"
+},
+{
+"name": "St Marks Lutheran School",
+"id": "63434097717",
+"amount": null,
+"closeDate": "2026-11-27",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"16154959543": [
+{
+"name": "Grand Canyon Jeep Tours & Safaris",
+"id": "55649225302",
+"amount": null,
+"closeDate": "2026-04-21",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "TourRadar",
+"id": "50443595055",
+"amount": null,
+"closeDate": "2026-05-29",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1292950405",
+"owner": "Grant Baker"
+},
+{
+"name": "Grand Canyon Jeep Tours & Safaris",
+"id": "62121866662",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"15709632131": [
+{
+"name": "3step Sports",
+"id": "34562945124",
+"amount": 438480.0,
+"closeDate": "2024-06-20",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "CT Wolves Lacrosse",
+"id": "61465629448",
+"amount": null,
+"closeDate": "2026-06-25",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"15645397341": [
+{
+"name": "HoneyBook - Registration Protection",
+"id": "28767506806",
+"amount": null,
+"closeDate": "2025-04-06",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Mountain House Estate",
+"id": "54956684688",
+"amount": null,
+"closeDate": "2026-02-10",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Don't Mess with the Bride",
+"id": "55688171891",
+"amount": null,
+"closeDate": "2026-02-13",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "44769514",
+"owner": "Brennon Brown"
+},
+{
+"name": "VIP Party Halls",
+"id": "54223736078",
+"amount": null,
+"closeDate": "2026-02-13",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Mosaic Venue- event liability",
+"id": "56981720674",
+"amount": null,
+"closeDate": "2026-03-04",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Venue at Carley Brook-event liability",
+"id": "58029766402",
+"amount": null,
+"closeDate": "2026-03-17",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Round Barn Farm Bed and Breakfast & Wedding Venue- event liability",
+"id": "58474473586",
+"amount": null,
+"closeDate": "2026-03-31",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Glampin Retro- event liability/ cancellation",
+"id": "58754151236",
+"amount": null,
+"closeDate": "2026-04-17",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Q.Jones Custom events- event liability",
+"id": "59171668577",
+"amount": null,
+"closeDate": "2026-05-01",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Sage View Ranch- event liability",
+"id": "59814673233",
+"amount": null,
+"closeDate": "2026-05-12",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Urban Daisy Events-event cancellation/ liability",
+"id": "59370061948",
+"amount": null,
+"closeDate": "2026-05-12",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Willow Sky Ranch-event liability and cancellation",
+"id": "60108262555",
+"amount": null,
+"closeDate": "2026-05-18",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Arlington Acres- event liability/ event cancellation",
+"id": "60275560318",
+"amount": null,
+"closeDate": "2026-06-01",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Grain Loft- event liability",
+"id": "60419969975",
+"amount": null,
+"closeDate": "2026-06-09",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "HoneyBook",
+"id": "48988013219",
+"amount": null,
+"closeDate": "2026-06-11",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Delightful Acres- event host liability/ cancellation",
+"id": "61244357017",
+"amount": null,
+"closeDate": "2026-06-22",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Atrium- event host liability",
+"id": "61624662870",
+"amount": null,
+"closeDate": "2026-07-07",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Cotton Gin at Mill Creek- event liability",
+"id": "60486834045",
+"amount": null,
+"closeDate": "2026-07-10",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Terrace at Marina Circle- event host liability",
+"id": "61245101366",
+"amount": null,
+"closeDate": "2026-07-10",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Givens Farm- event host liability",
+"id": "61055147637",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Historic London Town and Gardens- event liability",
+"id": "60256639414",
+"amount": null,
+"closeDate": "2026-08-13",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Erickson Farmstead- event host liability",
+"id": "61355610152",
+"amount": null,
+"closeDate": "2026-08-28",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"15582421600": [
+{
+"name": "Veterinary Practice Partners",
+"id": "56611934290",
+"amount": null,
+"closeDate": "2026-03-06",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+}
+],
+"15149423727": [
+{
+"name": "Zola-Events",
+"id": "34778894920",
+"amount": null,
+"closeDate": "2025-08-18",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Zola",
+"id": "49070008664",
+"amount": null,
+"closeDate": "2026-02-12",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Sunflower Hill Wedding and Event Venue landing page- event liability",
+"id": "55433805372",
+"amount": null,
+"closeDate": "2026-02-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Twin Gables Event Center - Zola",
+"id": "50870559666",
+"amount": null,
+"closeDate": "2026-03-16",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "44769514",
+"owner": "Brennon Brown"
+},
+{
+"name": "Krimson Park- event liability",
+"id": "58986963568",
+"amount": null,
+"closeDate": "2026-04-21",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Sanctuary on Ridge- event liability",
+"id": "58630793254",
+"amount": null,
+"closeDate": "2026-05-01",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Almquist Farm- event host liability",
+"id": "61465639803",
+"amount": null,
+"closeDate": "2026-07-27",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "48 Fields Farm- event host liability",
+"id": "62045130021",
+"amount": null,
+"closeDate": "2026-08-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"11563499846": [
+{
+"name": "The Bur Oak- event host liability",
+"id": "61024616205",
+"amount": null,
+"closeDate": "2026-06-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"10929265495": [
+{
+"name": "Fare Harbor",
+"id": "33817885089",
+"amount": 3675000.0,
+"closeDate": "2026-03-05",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1292950405",
+"owner": "Grant Baker"
+},
+{
+"name": "FareHarbor - Team Registration Protection",
+"id": "21115301471",
+"amount": null,
+"closeDate": "2024-09-12",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "586203296",
+"owner": "Patrick Sheehy"
+},
+{
+"name": "Gameday your way- event host cancellation",
+"id": "55307879451",
+"amount": null,
+"closeDate": "2026-03-30",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Mulberry Lane Farm-event host liability",
+"id": "61129450115",
+"amount": null,
+"closeDate": "2026-06-29",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"57386180870": [
+{
+"name": "Daxko - Registration Protection",
+"id": "14883328629",
+"amount": 2604967.593496,
+"closeDate": "2025-12-31",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Iron Courts",
+"id": "59277403559",
+"amount": null,
+"closeDate": "2026-04-17",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"10258820369": [
+{
+"name": "The Knot Worldwide - Events",
+"id": "31711379047",
+"amount": null,
+"closeDate": "2025-07-16",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Alta House Event Center",
+"id": "54274979254",
+"amount": null,
+"closeDate": "2026-01-29",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The View at South Bay - The Knot",
+"id": "50443408566",
+"amount": null,
+"closeDate": "2026-01-29",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "44769514",
+"owner": "Brennon Brown"
+},
+{
+"name": "Gardens of Castle Rock",
+"id": "54223735901",
+"amount": null,
+"closeDate": "2026-02-03",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Luck Club",
+"id": "54223521416",
+"amount": null,
+"closeDate": "2026-02-13",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Rye Venue Management",
+"id": "54421051577",
+"amount": null,
+"closeDate": "2026-02-13",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Knot Worldwide",
+"id": "47720281951",
+"amount": null,
+"closeDate": "2026-02-17",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Brighton Acres",
+"id": "54322692869",
+"amount": null,
+"closeDate": "2026-02-25",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Rolling Ridge Wedding & Event Center",
+"id": "55031290954",
+"amount": null,
+"closeDate": "2026-03-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "The Croix Venue - YMCA in the North - The Knot",
+"id": "51244070287",
+"amount": null,
+"closeDate": "2026-03-19",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "44769514",
+"owner": "Brennon Brown"
+},
+{
+"name": "Barn at Trinity Peak- event host liability",
+"id": "61024663952",
+"amount": null,
+"closeDate": "2026-06-25",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Lake Vadnais- event liability",
+"id": "61024642401",
+"amount": null,
+"closeDate": "2026-06-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Schultz's Rustic Barn- event liability",
+"id": "60964834560",
+"amount": null,
+"closeDate": "2026-07-07",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "48 Fields Farm- event host liability",
+"id": "62045130021",
+"amount": null,
+"closeDate": "2026-08-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"10211973423": [
+{
+"name": "eSoft Planner - Registration Protection",
+"id": "11412890118",
+"amount": 750000.0,
+"closeDate": "2024-12-15",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Blaze Baseball",
+"id": "62939521365",
+"amount": null,
+"closeDate": "2026-07-22",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"9704919651": [
+{
+"name": "WeTravel - Travel Insurance",
+"id": "30832378906",
+"amount": 3840000.0,
+"closeDate": "2025-04-27",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1292950405",
+"owner": "Grant Baker"
+},
+{
+"name": "Esperienza",
+"id": "54020153124",
+"amount": null,
+"closeDate": "2026-03-25",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"9704940066": [
+{
+"name": "Tlc Early Learning Center",
+"id": "58686448555",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Savanna",
+"id": "62985389605",
+"amount": null,
+"closeDate": "2026-10-20",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"57388238252": [
+{
+"name": "Upper Hand",
+"id": "28857299600",
+"amount": 174267.0612,
+"closeDate": "2024-11-14",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "1292950405",
+"owner": "Grant Baker"
+},
+{
+"name": "SAGA",
+"id": "60142231131",
+"amount": null,
+"closeDate": "2026-06-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"9705705544": [
+{
+"name": "Tripleseat - Event Host Liability",
+"id": "34563535188",
+"amount": 5040000.0,
+"closeDate": "2025-03-30",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Tripleseat",
+"id": "35295203866",
+"amount": null,
+"closeDate": "2026-03-11",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Snake Oil Cocktail/ Venue Company- Event liability",
+"id": "56645845117",
+"amount": null,
+"closeDate": "2026-03-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "10 South- event host liability",
+"id": "62045066352",
+"amount": null,
+"closeDate": "2026-07-30",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "25 Lusk- event liability/ cancellation",
+"id": "63434072350",
+"amount": null,
+"closeDate": "2026-08-21",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"57098989337": [
+{
+"name": "PheedLoop",
+"id": "41698169117",
+"amount": null,
+"closeDate": "2026-03-31",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "International Conference Services",
+"id": "60844058296",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"9705745763": [
+{
+"name": "Jackrabbit Technologies - Registration Protection",
+"id": "10487092349",
+"amount": 17462900.0,
+"closeDate": "2025-02-03",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Jackrabbit Technologies - Registration",
+"id": "44977548954",
+"amount": null,
+"closeDate": "2025-12-16",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "44769514",
+"owner": "Brennon Brown"
+},
+{
+"name": "KPAC",
+"id": "54353457408",
+"amount": null,
+"closeDate": "2026-01-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Miller Street Dance Academy",
+"id": "55478492276",
+"amount": null,
+"closeDate": "2026-03-19",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Revolution Gymnastics",
+"id": "55682555679",
+"amount": null,
+"closeDate": "2026-03-19",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Northside Gymnastics Academy",
+"id": "59727990921",
+"amount": null,
+"closeDate": "2026-06-01",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Omni Elite Athletix",
+"id": "54353163366",
+"amount": null,
+"closeDate": "2026-06-01",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "All Star Legacy",
+"id": "59153667926",
+"amount": null,
+"closeDate": "2026-06-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "John's Academy of Gymnastics",
+"id": "56611966480",
+"amount": null,
+"closeDate": "2026-07-14",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Blaze Gymnastics",
+"id": "62929980931",
+"amount": null,
+"closeDate": "2026-07-22",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Carpenter Center",
+"id": "61507393081",
+"amount": null,
+"closeDate": "2026-08-14",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Flips Gymnastics",
+"id": "61024912273",
+"amount": null,
+"closeDate": "2026-08-20",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Phenom Gymnastics",
+"id": "57856211629",
+"amount": null,
+"closeDate": "2026-08-21",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Greeneville Gymnastics Academy",
+"id": "54320813720",
+"amount": null,
+"closeDate": "2026-08-31",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "KIAGA",
+"id": "62115418018",
+"amount": null,
+"closeDate": "2026-10-04",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"9704892977": [
+{
+"name": "Camp Manito-Wish YMCA",
+"id": "61750515820",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"9705667962": [
+{
+"name": "iClassPro - Accident & Injury",
+"id": "16575389332",
+"amount": null,
+"closeDate": "2024-03-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Kenwood Gymnastics",
+"id": "59186295434",
+"amount": null,
+"closeDate": "2026-05-27",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Gym Bin / Bemidji Aerials",
+"id": "57865526197",
+"amount": null,
+"closeDate": "2026-06-30",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Elite Gymnastics",
+"id": "55679595090",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Colorado School Of Gymnastics",
+"id": "61114485784",
+"amount": null,
+"closeDate": "2026-08-10",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Jet Gymnastics",
+"id": "61114487070",
+"amount": null,
+"closeDate": "2026-08-28",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"57389152651": [
+{
+"name": "Glue Up - Event Host Cancellation",
+"id": "28367752839",
+"amount": null,
+"closeDate": "2025-12-12",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Kelly Dando Consulting- event registration",
+"id": "63434225833",
+"amount": null,
+"closeDate": "2026-08-28",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"9705667958": [
+{
+"name": "Dash Platform (DaySmart)",
+"id": "58295576064",
+"amount": 1732000.0,
+"closeDate": "2026-06-24",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "78343899",
+"owner": "Jennifer Peacock"
+},
+{
+"name": "Sawyer (DaySmart)",
+"id": "61625373313",
+"amount": 980000.0,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Interest",
+"bucket": "open",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "Crested Butte Development Team",
+"id": "54347278114",
+"amount": null,
+"closeDate": "2026-01-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "A Class Act NY",
+"id": "58686574395",
+"amount": null,
+"closeDate": "2026-04-10",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Flying Colors Trapeze",
+"id": "59369567100",
+"amount": null,
+"closeDate": "2026-05-04",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Champions in Motion",
+"id": "59727985516",
+"amount": null,
+"closeDate": "2026-05-08",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Wisconsin Academy of Sports",
+"id": "60652002948",
+"amount": null,
+"closeDate": "2026-08-24",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"35128100964": [
+{
+"name": "Momentive Software-Events",
+"id": "41045958760",
+"amount": null,
+"closeDate": "2026-02-19",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Inspire Association Management Company-registration protection",
+"id": "64175449775",
+"amount": null,
+"closeDate": "2026-10-02",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Base Consulting and Management Inc.- event registration protection",
+"id": "63433892417",
+"amount": null,
+"closeDate": "2026-10-24",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Momentive Software",
+"id": "61352520831",
+"amount": null,
+"closeDate": "2026-10-30",
+"stage": "Stage 3: Investigate",
+"bucket": "open",
+"ownerId": "90394475",
+"owner": "Nick Thielman"
+},
+{
+"name": "Clemons Associates, Inc.- registration protection",
+"id": "63433967221",
+"amount": null,
+"closeDate": "2026-11-03",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"39415247928": [
+{
+"name": "Ryzer - Accident & Injury",
+"id": "20798949011",
+"amount": 1760000.0,
+"closeDate": "2025-12-19",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Luther College",
+"id": "62121866783",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"9705805417": [
+{
+"name": "Clemons Associates, Inc.- registration protection",
+"id": "63433967221",
+"amount": null,
+"closeDate": "2026-11-03",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"57385095766": [
+{
+"name": "re:Members AMS-Events",
+"id": "41703633524",
+"amount": 630000.0,
+"closeDate": "2026-01-12",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "American Land Title Association- registration protection",
+"id": "60844045571",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"57671476096": [
+{
+"name": "BuilderTrend - Home Warranty Policies",
+"id": "10425552967",
+"amount": 2.0,
+"closeDate": "2023-08-21",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "237316478",
+"owner": "Unknown Owner"
+},
+{
+"name": "Schroetlin Custom Homes",
+"id": "57452167745",
+"amount": 2656.0,
+"closeDate": "2026-06-25",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Construction and Remodeling Services, LLC",
+"id": "57443007008",
+"amount": 375.0,
+"closeDate": "2026-03-25",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Lusso Builders, LLC",
+"id": "60177688501",
+"amount": 8021.0,
+"closeDate": "2026-05-19",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "91882025",
+"owner": "Peter Rasmussen"
+},
+{
+"name": "BuilderTrend",
+"id": "51760631049",
+"amount": 875000.0,
+"closeDate": "2026-06-17",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1299628362",
+"owner": "Michael Vandevoort"
+},
+{
+"name": "Kaye Lifestyle Homes",
+"id": "56135844445",
+"amount": 9999.0,
+"closeDate": "2026-06-19",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Elite Group SA LLC",
+"id": "57396965801",
+"amount": null,
+"closeDate": "2026-03-31",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Train Custom Homes LLC",
+"id": "57856179715",
+"amount": null,
+"closeDate": "2026-04-03",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Wideman Custom Homes LLC",
+"id": "59184852398",
+"amount": null,
+"closeDate": "2026-04-23",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Mayshark Builders Inc.",
+"id": "56122121226",
+"amount": null,
+"closeDate": "2026-04-29",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Concept Builders",
+"id": "59610034693",
+"amount": null,
+"closeDate": "2026-05-01",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Lake Travis Builders",
+"id": "59680146746",
+"amount": null,
+"closeDate": "2026-08-21",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Jeremy Helton Builder Inc.",
+"id": "61293021237",
+"amount": null,
+"closeDate": "2026-08-31",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Affinity Homes KC LLC - Builder's Risk",
+"id": "61244420354",
+"amount": null,
+"closeDate": "2026-09-04",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Kemick Builders and Consultants",
+"id": "58135967751",
+"amount": null,
+"closeDate": "2026-10-23",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Fullwiler Construction Inc.",
+"id": "63836865345",
+"amount": null,
+"closeDate": "2026-11-12",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"39417697382": [
+{
+"name": "Camp Grier",
+"id": "61625189492",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Lutherhoma",
+"id": "61352299122",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Falcon Camp",
+"id": "61624631680",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Laurel Ridge Moravian Camp",
+"id": "62115543730",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"9705648152": [
+{
+"name": "MVP Athlete",
+"id": "61465702303",
+"amount": null,
+"closeDate": "2026-07-15",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"9705705540": [
+{
+"name": "Softrip-Travel",
+"id": "35479888543",
+"amount": 8000000.0,
+"closeDate": "2026-01-21",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1292950405",
+"owner": "Grant Baker"
+},
+{
+"name": "Ayelet Tours",
+"id": "53754346040",
+"amount": null,
+"closeDate": "2026-06-23",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1292950405",
+"owner": "Grant Baker"
+}
+],
+"9704892963": [
+{
+"name": "Novi AMS-Events",
+"id": "41187706678",
+"amount": null,
+"closeDate": "2025-12-18",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "31875582",
+"owner": "Andy Marks"
+},
+{
+"name": "American Academy of Implant Dentistry- registration protection/ exhibitor liability",
+"id": "58798483460",
+"amount": null,
+"closeDate": "2026-04-22",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"57107981211": [
+{
+"name": "eShow - Event Host Cancellation",
+"id": "22328837239",
+"amount": null,
+"closeDate": "2025-01-05",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "American Immigration Lawyers Association- registration protection",
+"id": "60846301568",
+"amount": null,
+"closeDate": "2026-09-03",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "eShow Event Management Solutions",
+"id": "60781488036",
+"amount": null,
+"closeDate": "2026-09-21",
+"stage": "Stage 1: Interest",
+"bucket": "open",
+"ownerId": "90394475",
+"owner": "Nick Thielman"
+}
+],
+"57125849195": [
+{
+"name": "The Tower Heritage Center",
+"id": "41147619959",
+"amount": null,
+"closeDate": "2026-01-29",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Fullerton Museum Center- event liability",
+"id": "57669068395",
+"amount": null,
+"closeDate": "2026-03-10",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"9705794931": [
+{
+"name": "Cvent - Trip Protection",
+"id": "14268584005",
+"amount": 0.0,
+"closeDate": "2024-01-03",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "Cvent - Registration Protection",
+"id": "23368655513",
+"amount": 5600000.0,
+"closeDate": "2026-12-01",
+"stage": "Stage 5: Prioritize",
+"bucket": "open",
+"ownerId": "90394475",
+"owner": "Nick Thielman"
+},
+{
+"name": "Study Hotels",
+"id": "54267874828",
+"amount": null,
+"closeDate": "2026-02-03",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Eclipse Users Group",
+"id": "55649225775",
+"amount": null,
+"closeDate": "2026-02-10",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "MC Event Consulting- refund protection",
+"id": "61176341406",
+"amount": null,
+"closeDate": "2026-07-06",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Citation Jet Pilots- registration protection",
+"id": "62115537222",
+"amount": null,
+"closeDate": "2026-07-07",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "International Conference Services",
+"id": "60844058296",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Connect Event Group- registration protection",
+"id": "63514001186",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"9705667976": [
+{
+"name": "Playbook Sports",
+"id": "55454969983",
+"amount": 1400000.0,
+"closeDate": "2026-03-30",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "78343899",
+"owner": "Jennifer Peacock"
+},
+{
+"name": "Showdown Sports",
+"id": "63087097858",
+"amount": null,
+"closeDate": "2026-08-21",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"9705705558": [
+{
+"name": "Camp Manito-Wish YMCA",
+"id": "61750515820",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"9704940056": [
+{
+"name": "CampSite - Accident & Injury, Registration Protection",
+"id": "12257698880",
+"amount": null,
+"closeDate": "2023-09-06",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "Janney+ Summer",
+"id": "57909135537",
+"amount": null,
+"closeDate": "2026-03-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Wild Rivers Waterpark",
+"id": "58025468287",
+"amount": null,
+"closeDate": "2026-04-08",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "CampSite",
+"id": "57553407140",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 2: Explore",
+"bucket": "open",
+"ownerId": "84032037",
+"owner": "Jeff Margolis"
+},
+{
+"name": "Luther College",
+"id": "62121866783",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Ramapo for Children",
+"id": "61749771550",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"55404735840": [
+{
+"name": "Finalsite",
+"id": "58135602010",
+"amount": 6000000.0,
+"closeDate": "2026-12-31",
+"stage": "Stage 4: Validate",
+"bucket": "open",
+"ownerId": "84032037",
+"owner": "Jeff Margolis"
+},
+{
+"name": "Finalsite - Tuition Protection",
+"id": "40280658734",
+"amount": null,
+"closeDate": "2025-08-03",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1970452898",
+"owner": "Unknown Owner"
+},
+{
+"name": "Dublin School",
+"id": "59071672400",
+"amount": null,
+"closeDate": "2026-04-16",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+}
+],
+"9705715047": [
+{
+"name": "Profit Systems UK - Event Host Cancellation, Event Host Liability",
+"id": "29800819073",
+"amount": null,
+"closeDate": "2025-01-14",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "The Cotton Gin at Mill Creek- event liability",
+"id": "60486834045",
+"amount": null,
+"closeDate": "2026-07-10",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"9705694474": [
+{
+"name": "Bullis",
+"id": "57939132337",
+"amount": null,
+"closeDate": "2026-03-18",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Summer at St. John's",
+"id": "57452343406",
+"amount": null,
+"closeDate": "2026-03-23",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "St. Michael's Prep - Summer Camps",
+"id": "53696658849",
+"amount": null,
+"closeDate": "2026-04-09",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Breck School",
+"id": "60254161336",
+"amount": null,
+"closeDate": "2026-05-14",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Camp Horizon",
+"id": "62115543067",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Pasquaney",
+"id": "62122055451",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Cascade Camp Cedarbrook",
+"id": "61352360987",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "South Mountain Ymca Camps",
+"id": "59644519580",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Ymca of Greater Grand Rapids",
+"id": "61352299313",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "CampBrain",
+"id": "43898869045",
+"amount": null,
+"closeDate": "2026-12-31",
+"stage": "Stage 2: Explore",
+"bucket": "open",
+"ownerId": "84032037",
+"owner": "Jeff Margolis"
+}
+],
+"9704958208": [
+{
+"name": "Messyartlab",
+"id": "58029761347",
+"amount": null,
+"closeDate": "2026-03-18",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+}
+],
+"9704910127": [
+{
+"name": "Camp Killooleet",
+"id": "59174181956",
+"amount": null,
+"closeDate": "2026-04-24",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Camp Mountain Chai",
+"id": "59369497670",
+"amount": null,
+"closeDate": "2026-04-24",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Camp Mondamin",
+"id": "59418298018",
+"amount": null,
+"closeDate": "2026-05-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Decoma Day Camp",
+"id": "59610175138",
+"amount": null,
+"closeDate": "2026-05-06",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Camp Tawonga",
+"id": "59369964631",
+"amount": null,
+"closeDate": "2026-05-08",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Camp Interlaken JCC",
+"id": "59963167276",
+"amount": null,
+"closeDate": "2026-05-28",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Sanborn Western Camps/Colorado Outdoor Education Center",
+"id": "59644519526",
+"amount": null,
+"closeDate": "2026-05-28",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Camp Walden New York",
+"id": "59225076335",
+"amount": null,
+"closeDate": "2026-06-02",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Girl Scouts of Greater Atlanta",
+"id": "59609989417",
+"amount": null,
+"closeDate": "2026-06-12",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85549637",
+"owner": "Jordan Gillstrom"
+},
+{
+"name": "Alper JCC Miami",
+"id": "59644519597",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Birch Rock Camp for Boys",
+"id": "61749834329",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Agawam",
+"id": "62122059554",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Cody",
+"id": "58025346692",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Fernwood Inc.",
+"id": "61750391727",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Highlander",
+"id": "59610175294",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Kingswood",
+"id": "62121867630",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Lokanda",
+"id": "61024832942",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Pinecliffe Inc.",
+"id": "62115365281",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Pontiac LLC",
+"id": "62121867370",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Camp Wa-Klo",
+"id": "61750391404",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "CampWaldenMI",
+"id": "62122050740",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Falling Creek Camp",
+"id": "62115543907",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "JCC Denver",
+"id": "62115543618",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Mandel JCC of Cleveland",
+"id": "59680106913",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Pali Adventures",
+"id": "62121870375",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Point O'Pines Camp for Girls",
+"id": "62122052874",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Ramah DAY Camp Inc.",
+"id": "61749710684",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Ramapo for Children",
+"id": "61749771550",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Steve and Shari Sadek Family Camp Interlaken JCC",
+"id": "62122054549",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Tripp Lake Camp",
+"id": "62122049926",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Union for Reform Judaism",
+"id": "59915246472",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "YMCA Camp Minikani",
+"id": "59963576594",
+"amount": null,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"45285732168": [
+{
+"name": "De LaSalle Academy",
+"id": "61625486646",
+"amount": 28800.0,
+"closeDate": "2026-07-06",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Blackbaud - Tuition Protection (K12)",
+"id": "39381287609",
+"amount": 3750000.0,
+"closeDate": "2025-11-19",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "Rice Memorial High School",
+"id": "62852736648",
+"amount": 72000.0,
+"closeDate": "2026-10-18",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Northfield Mount Hermon School",
+"id": "61507367249",
+"amount": null,
+"closeDate": "2026-07-20",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Berwick Academy",
+"id": "62045450911",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "New Canaan Country School",
+"id": "62704618646",
+"amount": null,
+"closeDate": "2026-08-03",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Sacred Heart School",
+"id": "62115674907",
+"amount": null,
+"closeDate": "2026-10-06",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "The Walker School",
+"id": "62750636932",
+"amount": null,
+"closeDate": "2026-10-14",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Calvert Hall College HS",
+"id": "62852785203",
+"amount": null,
+"closeDate": "2026-10-18",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Donna Klein Jewish Academy",
+"id": "62852768526",
+"amount": null,
+"closeDate": "2026-10-18",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "Punahou School",
+"id": "62852767822",
+"amount": null,
+"closeDate": "2026-10-18",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "St. Michael's High School",
+"id": "63513987678",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "94714570",
+"owner": "Ethan Wilson"
+},
+{
+"name": "The Summit Country Day School",
+"id": "63576526245",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "94714570",
+"owner": "Ethan Wilson"
+},
+{
+"name": "Trinity Lutheran School",
+"id": "63513994634",
+"amount": null,
+"closeDate": "2026-11-05",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "94714570",
+"owner": "Ethan Wilson"
+},
+{
+"name": "Gonzaga College High School",
+"id": "63222159141",
+"amount": null,
+"closeDate": "2026-11-06",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "White Bear Montessori",
+"id": "63717556316",
+"amount": null,
+"closeDate": "2026-11-09",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "St Francis Xavier School",
+"id": "63837032998",
+"amount": null,
+"closeDate": "2026-11-11",
+"stage": "Stage 2: Engaged",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Pine Crest School",
+"id": "64133554591",
+"amount": null,
+"closeDate": "2026-11-17",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "92773093",
+"owner": "Molly Mastrianni"
+},
+{
+"name": "tuition",
+"id": "64178145920",
+"amount": null,
+"closeDate": "2026-11-18",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "94714570",
+"owner": "Ethan Wilson"
+},
+{
+"name": "Our Lady Of Peace",
+"id": "63513952111",
+"amount": null,
+"closeDate": "2026-12-31",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Phillips Academy Andover",
+"id": "62853285891",
+"amount": null,
+"closeDate": "2026-12-31",
+"stage": "Stage 1: Aware",
+"bucket": "open",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"9704958103": [
+{
+"name": "Aisle Planner - Event Host Liability",
+"id": "30157956149",
+"amount": 480000.0,
+"closeDate": "2025-03-16",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Aisle Planner - Event Host Liability",
+"id": "16504380032",
+"amount": null,
+"closeDate": "2024-02-13",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "The Gilded Aisle-Aisle planner",
+"id": "53751938223",
+"amount": null,
+"closeDate": "2026-01-14",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+},
+{
+"name": "Aisle Planner",
+"id": "49070738346",
+"amount": null,
+"closeDate": "2026-06-11",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "604517561",
+"owner": "Lonnie Welsh"
+},
+{
+"name": "Jenna Culley Events- event host liability/ event host cancellation",
+"id": "62121465777",
+"amount": null,
+"closeDate": "2026-07-24",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84910090",
+"owner": "Melvin Ametepe"
+}
+],
+"57395551130": [
+{
+"name": "DaySmart - Pet",
+"id": "10544010034",
+"amount": 1.0,
+"closeDate": "2024-01-22",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "225540957",
+"owner": "Ken McGinley"
+},
+{
+"name": "DaySmart - Tattoo Regret",
+"id": "10543216292",
+"amount": 1.0,
+"closeDate": "2024-01-22",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "225540957",
+"owner": "Ken McGinley"
+},
+{
+"name": "DaySmart Software - Pet Illness & Injury",
+"id": "17002437202",
+"amount": 1000.0,
+"closeDate": "2025-06-05",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "348472337",
+"owner": "Jon MacRae"
+},
+{
+"name": "Dash Platform (DaySmart)",
+"id": "58295576064",
+"amount": 1732000.0,
+"closeDate": "2026-06-24",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "78343899",
+"owner": "Jennifer Peacock"
+},
+{
+"name": "TeamUp (DaySmart)",
+"id": "61625373491",
+"amount": 280000.0,
+"closeDate": "2026-12-31",
+"stage": "Stage 1: Interest",
+"bucket": "open",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "DaySmart Software",
+"id": "18919106625",
+"amount": 6607000.0,
+"closeDate": "2025-04-17",
+"stage": "Churned",
+"bucket": "closedlost",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "Sawyer (DaySmart)",
+"id": "61625373313",
+"amount": 980000.0,
+"closeDate": "2026-09-30",
+"stage": "Stage 1: Interest",
+"bucket": "open",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "TeamUp - Registration Protection",
+"id": "18051524773",
+"amount": null,
+"closeDate": "2025-03-31",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+},
+{
+"name": "Fastbreak Sports",
+"id": "58025208504",
+"amount": null,
+"closeDate": "2026-04-02",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "NCSP Soccer",
+"id": "58566819742",
+"amount": null,
+"closeDate": "2026-06-08",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Off The Wall Sports",
+"id": "59369633889",
+"amount": null,
+"closeDate": "2026-06-26",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Pinnacle Sports",
+"id": "61049783863",
+"amount": null,
+"closeDate": "2026-07-15",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+},
+{
+"name": "Wide World Sports Recreation",
+"id": "60256611679",
+"amount": null,
+"closeDate": "2026-08-12",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"30680864304": [
+{
+"name": "Ressio Software",
+"id": "47172971329",
+"amount": 490000.0,
+"closeDate": "2026-01-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "1299628362",
+"owner": "Michael Vandevoort"
+}
+],
+"17824203546": [
+{
+"name": "Rediker Software",
+"id": "64133471388",
+"amount": null,
+"closeDate": "2026-11-16",
+"stage": "Stage 1: Interest",
+"bucket": "open",
+"ownerId": "84032037",
+"owner": "Jeff Margolis"
+}
+],
+"57387590994": [
+{
+"name": "SportsEngine Motion",
+"id": "52994272111",
+"amount": null,
+"closeDate": "2026-01-09",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"36087953430": [
+{
+"name": "SportsEngine",
+"id": "40365958490",
+"amount": 4020000.0,
+"closeDate": "2023-06-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "1122899564",
+"owner": "Jonah Steinmeyer"
+},
+{
+"name": "SportsEngine Motion",
+"id": "57093321075",
+"amount": null,
+"closeDate": "2026-04-30",
+"stage": "Appointment Scheduled",
+"bucket": "open",
+"ownerId": "86693841",
+"owner": "Bobby Johnson"
+}
+],
+"33499068779": [
+{
+"name": "Homeroom",
+"id": "37238202689",
+"amount": 294600.5345,
+"closeDate": "2026-06-04",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "84032037",
+"owner": "Jeff Margolis"
+}
+],
+"9705743749": [
+{
+"name": "ACTIVE Network - Registration Protection",
+"id": "20692941321",
+"amount": 1000000.0,
+"closeDate": "2025-12-30",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "348472337",
+"owner": "Jon MacRae"
+},
+{
+"name": "ACTIVE",
+"id": "61114478658",
+"amount": null,
+"closeDate": "2026-09-13",
+"stage": "Stage 2: Explore",
+"bucket": "open",
+"ownerId": "348472337",
+"owner": "Jon MacRae"
+}
+],
+"15597599299": [
+{
+"name": "Bond Sports - Accident & Injury, Registration Protection",
+"id": "15691416081",
+"amount": 197100.0,
+"closeDate": "2025-03-31",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "284264796",
+"owner": "Braden Schrupp"
+}
+],
+"57101924741": [
+{
+"name": "VacationCRM",
+"id": "63513975685",
+"amount": 4000000.0,
+"closeDate": "2026-12-31",
+"stage": "Stage 3: Investigate",
+"bucket": "open",
+"ownerId": "1292950405",
+"owner": "Grant Baker"
+}
+],
+"49432080003": [
+{
+"name": "Crested Butte Development Team",
+"id": "54347278114",
+"amount": null,
+"closeDate": "2026-01-26",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "85580260",
+"owner": "Ryan Weinmann"
+}
+],
+"56468256317": [
+{
+"name": "BuildTools",
+"id": "61390338438",
+"amount": 490000.0,
+"closeDate": "2026-07-07",
+"stage": "Closed Won",
+"bucket": "closedwon",
+"ownerId": "91882025",
+"owner": "Peter Rasmussen"
+}
+],
+"48895841667": [
+{
+"name": "Kiavi",
+"id": "54403682693",
+"amount": 1153000.0,
+"closeDate": "2026-03-16",
+"stage": "Closed Lost",
+"bucket": "closedlost",
+"ownerId": "1299628362",
+"owner": "Michael Vandevoort"
+}
+]
+}
