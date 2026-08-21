@@ -39,11 +39,18 @@ not something the refresh script should work around.
 
 ## Setup — two things need to be done before this actually runs
 
-### 1. HubSpot private app token
+### 1. HubSpot Service Key
 
-Settings → Integrations → Private Apps → create one with at minimum:
+HubSpot introduced Service Keys in 2026 specifically for data-only,
+system-to-system integrations like this one — use one instead of a legacy
+Private App (HubSpot's own account setup flow will likely steer you there
+already). Create one with at minimum:
 - `crm.objects.companies.read`
 - `crm.schemas.companies.read`
+
+Service Keys authenticate the same way as Private App tokens
+(`Authorization: Bearer <token>`), so no script changes are needed either
+way — this is purely about which credential type you generate in HubSpot.
 
 Add the token as a GitHub repo secret named `HUBSPOT_TOKEN`
 (Settings → Secrets and variables → Actions).
@@ -68,6 +75,11 @@ a manual `workflow_dispatch` run first to confirm the whole pipeline end to
 end before trusting the schedule.
 
 ## Adjusting the polling window
+
+Once you have a sense of how long the nightly HubSpot workflow actually takes
+to clear its enrollment, narrow or widen the cron schedule in
+`.github/workflows/refresh.yml` accordingly — no code changes needed
+elsewhere.
 
 Once you have a sense of how long the nightly HubSpot workflow actually takes
 to clear its enrollment, narrow or widen the cron schedule in
