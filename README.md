@@ -55,31 +55,24 @@ way — this is purely about which credential type you generate in HubSpot.
 Add the token as a GitHub repo secret named `HUBSPOT_TOKEN`
 (Settings → Secrets and variables → Actions).
 
-### 2. LaunchCloud CLI auth — **unconfirmed, needs verification**
+### 2. LaunchCloud API key
 
-The workflow and script both have `TODO` markers where the LaunchCloud CLI
-install/login step goes. LaunchCloud's own docs mention a CLI
-(`lc deployments create --project-id <id> <path>`) for exactly this kind of
-CI use, but the install method and auth mechanism weren't available to
-confirm at the time this was built. Before the workflow will actually deploy:
+LaunchCloud's docs (https://launchcloud.ai/docs) confirm there's **no separate
+CLI** — headless/CI clients call the same MCP server that interactive
+assistants use (`https://launchcloud.ai/mcp`), authenticated with a personal
+API key as an `Authorization: Bearer` header instead of the interactive OAuth
+browser flow.
 
-1. Check your LaunchCloud account settings for an API key or CLI login token.
-2. Install the CLI locally and run `lc --help` to see the actual auth flow.
-3. Update the `TODO` step in `.github/workflows/refresh.yml` accordingly, and
-   add whatever secret it needs (placeholder name used here:
-   `LAUNCHCLOUD_API_KEY`).
+1. In LaunchCloud: **Account → API keys** → create one.
+2. Add it as a GitHub repo secret named `LAUNCHCLOUD_API_KEY`.
 
-Until that's filled in, the script will pull fresh data and detect changes
-correctly, but the final `lc deployments create` call will fail. Worth doing
-a manual `workflow_dispatch` run first to confirm the whole pipeline end to
-end before trusting the schedule.
+`scripts/refresh.mjs` uses the official `@modelcontextprotocol/sdk` client to
+connect to that MCP server directly, call `create_deployment` to get a signed
+upload URL, and `PUT` the built `dist/index.html` to it — the same mechanism
+an interactive assistant uses, just called programmatically. No CLI install
+step needed; `npm install` in the workflow pulls in everything required.
 
 ## Adjusting the polling window
-
-Once you have a sense of how long the nightly HubSpot workflow actually takes
-to clear its enrollment, narrow or widen the cron schedule in
-`.github/workflows/refresh.yml` accordingly — no code changes needed
-elsewhere.
 
 Once you have a sense of how long the nightly HubSpot workflow actually takes
 to clear its enrollment, narrow or widen the cron schedule in

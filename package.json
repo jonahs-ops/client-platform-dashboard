@@ -1,0 +1,13 @@
+{
+  "name": "dashboard-refresh",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pulls the Platform Capture Rate roster from HubSpot and deploys the dashboard to LaunchCloud",
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
