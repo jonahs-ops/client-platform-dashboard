@@ -1,0 +1,44 @@
+name: Refresh dashboard
+
+on:
+  schedule:
+    - cron: '*/30 * * * 6'
+    - cron: '*/30 * * * 0'
+    - cron: '*/30 0-20 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run refresh script
+        env:
+          HUBSPOT_TOKEN: ${{ secrets.HUBSPOT_TOKEN }}
+          LAUNCHCLOUD_API_KEY: ${{ secrets.LAUNCHCLOUD_API_KEY }}
+        run: |
+          mkdir -p dist
+          node scripts/refresh.mjs
+
+      - name: Commit updated hash (only if changed)
+        run: |
+          if [ -n "$(git status --porcelain .last-data-hash)" ]; then
+            git config user.name "dashboard-refresh-bot"
+            git config user.email "actions@github.com"
+            git add .last-data-hash
+            git commit -m "chore: update data hash after refresh"
+            git push
+          else
+            echo "No hash change to commit."
+          fi
