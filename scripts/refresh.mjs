@@ -35,8 +35,11 @@ const CLIENT_PIPELINE_ID = '698625040';
 
 // Deal-to-company association type id for the "Influenced" label (platform
 // side of a Client Pipeline deal, as opposed to the primary Client company).
+// This is the Deal→Company direction id specifically — HubSpot issues a
+// separate id for the inverse (Company→Deal) direction of the same label,
+// which is NOT what /associations/deals/companies/batch/read returns.
 // Confirmed by Jonah 2026-09-02 against this portal's association settings.
-const INFLUENCED_ASSOCIATION_TYPE_ID = 91;
+const INFLUENCED_ASSOCIATION_TYPE_ID = 92;
 
 // Raw dealstage -> { display label, bucket } for Client Pipeline. Bucket
 // values match what template.html expects (open / closedwon / closedlost).
@@ -209,6 +212,10 @@ async function fetchInfluencedPlatformByDeal(dealIds) {
     });
     if (!res.ok) throw new Error(`Association batch read failed: ${res.status} ${await res.text()}`);
     const json = await res.json();
+    // TEMP DEBUG — remove once INFLUENCED_ASSOCIATION_TYPE_ID is confirmed.
+    if (i === 0) {
+      console.log('DEBUG first 3 association results:', JSON.stringify((json.results || []).slice(0, 3), null, 2));
+    }
     for (const result of json.results || []) {
       const dealId = result.from?.id;
       const influenced = (result.to || []).find((t) =>
