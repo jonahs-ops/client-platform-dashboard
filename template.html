@@ -43,9 +43,10 @@ table { width: 100%; border-collapse: collapse; background: #fff; border: 1px so
 thead th { text-align: left; font-size: 10.5px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); font-weight: 700; padding: 10px 12px; border-bottom: 1px solid var(--border); background: #fafbfc; }
 tbody td { padding: 11px 12px; border-bottom: 1px solid var(--border); font-size: 13.5px; vertical-align: middle; }
 tbody tr.platform-row:hover { background: #fafbfc; cursor: pointer; }
-.pname { font-weight: 600; display: flex; align-items: center; gap: 6px; }
+.pname { font-weight: 600; }
+.pname-inner { display: flex; align-items: center; gap: 6px; }
 .pname .caret { font-size: 10px; color: var(--muted); width: 12px; display: inline-block; }
-.pname .pname-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+.pname-inner .pname-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
 a.hslink { color: var(--muted); text-decoration: none; display: inline-flex; align-items: center; flex-shrink: 0; }
 a.hslink:hover { color: var(--blue); }
 .vbadge { display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; vertical-align: bottom; font-size: 10.5px; font-weight: 600; padding: 2px 8px; border-radius: 20px; background: #eef0f5; color: #444; text-transform: uppercase; letter-spacing: .03em; }
@@ -259,7 +260,7 @@ const tr = document.createElement('tr');
 tr.className = 'platform-row';
 tr.innerHTML = `
 <td><span class="caret">${state.expandedPlatform === p.id ? '▾' : '▸'}</span></td>
-<td class="pname"><span class="pname-text">${p.name}</span><a class="hslink" href="${hsCompanyUrl(p.id)}" target="_blank" title="Open in HubSpot" onclick="event.stopPropagation()">${hsIcon()}</a></td>
+<td class="pname"><span class="pname-inner"><span class="pname-text">${p.name}</span><a class="hslink" href="${hsCompanyUrl(p.id)}" target="_blank" title="Open in HubSpot" onclick="event.stopPropagation()">${hsIcon()}</a></span></td>
 <td><span class="vbadge">${p.vertical}</span></td>
 <td><span class="stagebadge ${p.stage}">${p.stage}</span></td>
 <td>${p.totalClients.toLocaleString()}</td>
