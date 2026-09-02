@@ -45,9 +45,10 @@ tbody td { padding: 11px 12px; border-bottom: 1px solid var(--border); font-size
 tbody tr.platform-row:hover { background: #fafbfc; cursor: pointer; }
 .pname { font-weight: 600; display: flex; align-items: center; gap: 6px; }
 .pname .caret { font-size: 10px; color: var(--muted); width: 12px; display: inline-block; }
-a.hslink { color: var(--muted); text-decoration: none; display: inline-flex; align-items: center; }
+.pname .pname-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+a.hslink { color: var(--muted); text-decoration: none; display: inline-flex; align-items: center; flex-shrink: 0; }
 a.hslink:hover { color: var(--blue); }
-.vbadge { display: inline-block; font-size: 10.5px; font-weight: 600; padding: 2px 8px; border-radius: 20px; background: #eef0f5; color: #444; text-transform: uppercase; letter-spacing: .03em; }
+.vbadge { display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; vertical-align: bottom; font-size: 10.5px; font-weight: 600; padding: 2px 8px; border-radius: 20px; background: #eef0f5; color: #444; text-transform: uppercase; letter-spacing: .03em; }
 .stagebadge { font-size: 10.5px; font-weight: 700; padding: 2px 8px; border-radius: 20px; }
 .stagebadge.Prospect { background: var(--blue-bg); color: var(--blue); }
 .stagebadge.Partner { background: var(--green-bg); color: var(--green); }
@@ -258,7 +259,7 @@ const tr = document.createElement('tr');
 tr.className = 'platform-row';
 tr.innerHTML = `
 <td><span class="caret">${state.expandedPlatform === p.id ? '▾' : '▸'}</span></td>
-<td class="pname">${p.name}<a class="hslink" href="${hsCompanyUrl(p.id)}" target="_blank" title="Open in HubSpot" onclick="event.stopPropagation()">${hsIcon()}</a></td>
+<td class="pname"><span class="pname-text">${p.name}</span><a class="hslink" href="${hsCompanyUrl(p.id)}" target="_blank" title="Open in HubSpot" onclick="event.stopPropagation()">${hsIcon()}</a></td>
 <td><span class="vbadge">${p.vertical}</span></td>
 <td><span class="stagebadge ${p.stage}">${p.stage}</span></td>
 <td>${p.totalClients.toLocaleString()}</td>
