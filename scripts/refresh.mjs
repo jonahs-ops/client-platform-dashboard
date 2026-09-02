@@ -212,10 +212,6 @@ async function fetchInfluencedPlatformByDeal(dealIds) {
     });
     if (!res.ok) throw new Error(`Association batch read failed: ${res.status} ${await res.text()}`);
     const json = await res.json();
-    // TEMP DEBUG — remove once INFLUENCED_ASSOCIATION_TYPE_ID is confirmed.
-    if (i === 0) {
-      console.log('DEBUG first 3 association results:', JSON.stringify((json.results || []).slice(0, 3), null, 2));
-    }
     for (const result of json.results || []) {
       const dealId = result.from?.id;
       const influenced = (result.to || []).find((t) =>
@@ -264,11 +260,20 @@ async function buildDealsByPlatform() {
 function buildPlatform(company, dealsByPlatform) {
   const p = company.properties;
   const tc = Number(p.client_pipeline_total_clients || 0);
-  const od = Number(p.client_pipeline_open_deals || 0);
-  const cw = Number(p.client_pipeline_closedwon_deals || 0);
   const rac = Number(p.client_pipeline_recent_activity_clients || 0);
   const ta = Number(p.total_associated_companies || 0);
   const stageLabel = STAGE_LABELS[p.lifecyclestage] || p.lifecyclestage || 'Unknown';
+
+  // Open/Closed-Won now come from the same live deal pull that builds the
+  // drilldown below, not from the separately-timed HubSpot rollup
+  // properties — so the tile and the drilldown can no longer disagree
+  // (2026-09-02: previously these came from client_pipeline_open_deals /
+  // client_pipeline_closedwon_deals, which run on the HubSpot workflow's
+  // own enrollment cadence and could drift from a live pull by several
+  // deals on a fast-moving pipeline).
+  const platformDeals = dealsByPlatform[String(company.id)] || [];
+  const od = platformDeals.filter((d) => d.bucket === 'open').length;
+  const cw = platformDeals.filter((d) => d.bucket === 'closedwon').length;
 
   return {
     name: (p.name || '').trim(),
@@ -285,7 +290,7 @@ function buildPlatform(company, dealsByPlatform) {
     capRate: tc > 0 ? Math.round((cw / tc) * 1000) / 10 : null,
     recentActivityClients: rac,
     coverage: tc > 0 ? Math.round((rac / tc) * 1000) / 10 : null,
-    deals: dealsByPlatform[String(company.id)] || [],
+    deals: platformDeals,
   };
 }
 
